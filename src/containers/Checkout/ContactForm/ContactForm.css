@@ -1,0 +1,12 @@
+.Contactform{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+
+@media(min-width : 600px)
+{
+    .Contactform{
+        width:500px
+    }
+}
